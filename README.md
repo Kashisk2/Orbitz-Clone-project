@@ -1,5 +1,5 @@
 # Orbitz-Clone
-Its the clone of orbitz.com, we will update the descirption after the project.
+Its the clone of orbitz.com, It's website where people can search flight and book flight
 A team of 5 members.
 
 https://www.orbitz.com/  s a travel fare aggregator website and travel metasearch engine. 
